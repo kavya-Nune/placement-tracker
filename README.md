@@ -1,4 +1,5 @@
-# Placement Tracker
+# CAMPUS HIRE
+
 
 A MERN stack-based web application to manage placement opportunities, track applications, and monitor student progress.
 
